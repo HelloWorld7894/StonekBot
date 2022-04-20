@@ -11,7 +11,7 @@ const client = new Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_E
                                     Intents.FLAGS.GUILD_VOICE_STATES]});
 const Prefix = ";";
 const Player = createAudioPlayer();
-const AuthorID = "529926127477850112"
+const AuthorID = "AUTHOR ID"
 
 var Loop = false;
 var PauseBool = false
